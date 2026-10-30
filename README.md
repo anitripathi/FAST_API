@@ -1,2 +1,4 @@
 # FAST_API
 This repository is used while I am learning about fastapi.
+
+THIS FILE CONTAINS THE TUTORIAL ON FAST_API AND ALSO THE INSURANCE_PREMIUM_PREDICTION PROJECT.
